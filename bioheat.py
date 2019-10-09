@@ -486,9 +486,9 @@ cBone              = 0.0           #\see equations section
 
 # Set the time parameters
 #timeIncrement   = 0.5
-timeIncrement   = 10.0
+timeIncrement   = 1.0
 startTime       = 0.0
-stopTime        = 16000
+stopTime        = 820
 
 # Set the output parameters
 DYNAMIC_SOLVER_DIFFUSION_OUTPUT_FREQUENCY = 100
